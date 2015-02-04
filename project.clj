@@ -1,6 +1,6 @@
 (defproject sms-receipts "1.0.0-SNAPSHOT"
   :description "SMS receipts receiver web app"
-  :url "http://sms-receipts.herokuapp.com"
+  :url "http://infinite-journey-8177.herokuapp.com"
   :license {:name "The BSD 3-Clause License"
             :url "http://opensource.org/licenses/BSD-3-Clause"}
   :dependencies [[org.clojure/clojure "1.6.0"]
